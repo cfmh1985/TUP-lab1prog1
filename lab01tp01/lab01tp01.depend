@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1567382429 source:c:\cf\tecnicatura\2019\lab i - prog i\tp01\lab01tp01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"math.h"
+	"validar.h"
+
+1567382552 source:c:\cf\tecnicatura\2019\lab i - prog i\tp01\lab01tp01\math.c
+	<stdio.h>
+	<stdlib.h>
+	"math.h"
+	"validar.h"
+
+1567350008 c:\cf\tecnicatura\2019\lab i - prog i\tp01\lab01tp01\math.h
+	<stdio.h>
+	<stdlib.h>
+	"math.h"
+
+1567350400 c:\cf\tecnicatura\2019\lab i - prog i\tp01\lab01tp01\validar.h
+	<stdio.h>
+	<stdlib.h>
+	"validar.h"
+
+1567382650 source:c:\cf\tecnicatura\2019\lab i - prog i\tp01\lab01tp01\validar.c
+	<stdio.h>
+	<stdlib.h>
+	"math.h"
+	"validar.h"
+
+1567781522 source:c:\users\fmarrafa\desktop\lab01tp01\math.c
+	<stdio.h>
+	<stdlib.h>
+	"math.h"
+	"validar.h"
+
+1567780184 c:\users\fmarrafa\desktop\lab01tp01\math.h
+	<stdio.h>
+	<stdlib.h>
+	"math.h"
+
+1567797385 c:\users\fmarrafa\desktop\lab01tp01\validar.h
+	<stdio.h>
+	<stdlib.h>
+	"validar.h"
+
+1567799408 source:c:\users\fmarrafa\desktop\lab01tp01\validar.c
+	<stdio.h>
+	<stdlib.h>
+	"math.h"
+	"validar.h"
+
+1567799332 source:c:\users\fmarrafa\desktop\lab01tp01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"math.h"
+	"validar.h"
+
